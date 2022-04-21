@@ -142,3 +142,7 @@ body {
 .field-player-2 img {
   transform: scalex(-1);
 }
+
+.star {
+  background-color: green;
+}
